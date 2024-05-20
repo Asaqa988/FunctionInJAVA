@@ -47,5 +47,5 @@ public class myClass {
 	}
 	
 	// write a function that ask the user to enter 2 numbers and return the mod of those two numbers 
-
+ 
 }
